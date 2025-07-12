@@ -1,5 +1,5 @@
 # Polygon-Area-Calculator
-The fourth certification project for Freecodecamp's 'Scientific Computing with Python' course. This program can build and calculate the area of 
+The fourth certification project for Freecodecamp's 'Scientific Computing with Python' course. This program uses a class and subclass stucture to build and calculate the area of any rectangular object.
 
 
 
